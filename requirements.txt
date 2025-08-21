@@ -1,0 +1,14 @@
+# If you prefer to use pip within notebook:
+!pip install numpy pandas scikit-learn imbalanced-learn xgboost shap joblib matplotlib
+
+# OR create requirements.txt with:
+"""
+numpy
+pandas
+scikit-learn>=1.0
+imbalanced-learn
+xgboost
+shap
+joblib
+matplotlib
+"""
